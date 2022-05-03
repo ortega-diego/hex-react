@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hex-react/static/css/main.463f0d36.css",
+    "main.js": "/hex-react/static/js/main.b74c3685.js",
+    "static/js/787.21d72681.chunk.js": "/hex-react/static/js/787.21d72681.chunk.js",
+    "index.html": "/hex-react/index.html",
+    "main.463f0d36.css.map": "/hex-react/static/css/main.463f0d36.css.map",
+    "main.b74c3685.js.map": "/hex-react/static/js/main.b74c3685.js.map",
+    "787.21d72681.chunk.js.map": "/hex-react/static/js/787.21d72681.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.463f0d36.css",
+    "static/js/main.b74c3685.js"
+  ]
+}
